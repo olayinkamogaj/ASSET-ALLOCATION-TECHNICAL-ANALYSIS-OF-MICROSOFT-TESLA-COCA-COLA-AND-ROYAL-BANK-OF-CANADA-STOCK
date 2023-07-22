@@ -1,4 +1,4 @@
-# ASSET-ALLOCATION-TECHNICAL-ANALYSIS-OF-MICROSOFT-TESLA-COCA-COLA-AND-ROYAL-BANK-OF-CANADA-STOCK
+# Asset Allocation, Technical Analysis Of Microsoft, Tesla, Coca-Cola And Royal Bank Of Canada Stock
 
 #INTRODUCTION
 According to investment theories, Investors are assumed to be risk averse and take a rational approach to investments. One of the theories put forward to explain investment behavior is the Prospect Theory.
