@@ -1,6 +1,7 @@
 ### Asset Allocation, Technical Analysis Of Microsoft, Tesla, Coca-Cola And Royal Bank Of Canada Stock
 
 **INTRODUCTION**
+
 According to investment theories, Investors are assumed to be risk averse and take a rational approach to investments. One of the theories put forward to explain investment behavior is the Prospect Theory.
 Prospect theory assumes that losses and gains are valued differently, and thus individuals make decisions based on perceived gains instead of perceived losses [1]. In general, if presented options between a risk-free investment and another that offers fluctuating returns and a possibility of loss, an individual will opt for the investment where they won’t lose anything (risk free investment).
 For investors seeking to invest for the long term, and aiming to attain growth in their portfolios, stocks are promoted by various investment advisors as the channels that will offer growth overtime. In order to narrow down on the best portfolio to hold, there is some ground work that has to be done, in terms of asset allocation and technical analysis. 
